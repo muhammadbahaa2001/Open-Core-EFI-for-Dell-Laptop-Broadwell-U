@@ -9,7 +9,7 @@
 | RAM           | 4GB                                   |
 | GPU           | AMD Radeon™ RX 6800 XT                |
 | Audio         | ASUS ROG SupremeFX8-Channel S1220     |
-| Ethernet      | Intel® I211-AT                        |
+| Ethernet      | RTL8111                               |
 | Wireless      | Intel® Wi-Fi 6 AX200                  |
 | Storage       | Samsung 860 PRO SATA 2.5" SSD 1TB     |
 
