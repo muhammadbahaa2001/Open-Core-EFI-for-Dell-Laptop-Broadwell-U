@@ -1,14 +1,15 @@
 # Open-Core-EFI-for-Dell-Laptop-Broadwell-U
-
+This EFI made and tested for Dell Inspiron 5558.
+This EFI is very exclusive, you might not able to find one like this, since Dortania Guide for building Open Core EFI includes all Intel generations whether desktop or laptop, but it doesn't include all all Intel architectures (Broadwell-U)
 ## System Information
 
 | **Component** | **Model**                             |
 | ------------- | ------------------------------------- |
-| CPU           | AMD Ryzen™ 9 5900X                    |
-| Motherboard   | ASUS ROG (X570) Crosshair VIII Impact |
+| CPU           | Intel Core i3-5005u                    |
+| Motherboard   | DELL OGGKVJ                           |
 | RAM           | 4GB                                   |
-| GPU           | AMD Radeon™ RX 6800 XT                |
-| Audio         | ASUS ROG SupremeFX8-Channel S1220     |
+| GPU           | Intel HD Graphics 5500                |
+| Audio         | -     |
 | Ethernet      | RTL8111                               |
 | Wireless      | Intel® Wi-Fi 6 AX200                  |
 | Storage       | Samsung 860 PRO SATA 2.5" SSD 1TB     |
@@ -33,7 +34,6 @@
 - [x] Fn feature **(Brightness and volume button works)**
 
 # Not WORKING:
-- [ ] Nvidia 920M GPU   **(will never work)**
 - [ ] iMassage **(Not working on my device. It might work on your device)**
 - [ ] Facetime **(Not working on my device. It might work on your device)**
 
