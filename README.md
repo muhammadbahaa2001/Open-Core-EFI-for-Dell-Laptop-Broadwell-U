@@ -39,5 +39,4 @@ This EFI is very exclusive, you might not able to find one like this, since Dort
 
 # Support Me
 </div>
-<p align="center">
-<a href='https://ko-fi.com/H2H1Q9W7J' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/H2H1Q9W7J' target='_blank'><img height='48' style='border:0px;height:48px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=8' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
