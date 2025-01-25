@@ -21,14 +21,13 @@ After more than 20 attempts, I finally figured out how to create a custom EFI fo
 | Wireless      | Intel® Wi-Fi 6 AX200                  |
 | Storage       | Samsung 860 PRO SATA 2.5" SSD 1TB     |
 
-# WORKING:
+# What is working:
 - [x] Power Management
 - [x] Intel HD Graphics 5500
 - [x] Sound **(Internal Speaker and Headphone working)**
 - [x] Mic **(Internal and External both working)**
 - [x] Wifi
 - [x] Bluetooth
-- [x] SD Card Reader
 - [x] Ethernet
 - [x] Adjust brightness 
 - [x] USB 2.0 and 3.0
@@ -36,11 +35,9 @@ After more than 20 attempts, I finally figured out how to create a custom EFI fo
 - [x] Sleep  **(working while power adapter is not connected and using battery)**
 - [x] Battery Stat 
 - [x] Tempareture Monitor 
-- [x] Apple Store 
-- [x] iCloud 
 - [x] Fn feature **(Brightness and volume button works)**
 
-# Not WORKING:
+# What is not working:
 - [ ] iMassage **(Not working on my device. It might work on your device)**
 - [ ] Facetime **(Not working on my device. It might work on your device)**
 
