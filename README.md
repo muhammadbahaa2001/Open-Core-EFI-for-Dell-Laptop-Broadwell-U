@@ -8,15 +8,6 @@ This EFI includes some specific modifications to on Dell laptops only. If you wa
 
 After more than 20 attempts, I finally figured out how to create a custom EFI for it. The idea was to copy some keys and values from a pre-made Clover config and then build the rest of the config based on Broadwell, as explained in the Dortania guide.
 
-# Disclaimer
-
-> [!WARNING]
-> -This EFI was made for the device mentioned above, and it might work on other Dell laptops if they are similar in speces.
-However, I do not recommend to use pre-made EFI, and it’s better to create one yourself.
-I am not responsible for any damage that may occur to your device from using it.
-I shared this EFI for those who want to test it for a specific purpose. You are not allowed to sell it or re-upload it as is.
-Re-uploading is only permitted if you make significant changes to it.
-
 ## System Information
 
 | **Component** | **Model**                             |
@@ -49,6 +40,15 @@ Re-uploading is only permitted if you make significant changes to it.
 # What is not working:
 - [ ] iMassage **(Not working on my device. It might work on your device)**
 - [ ] Facetime **(Not working on my device. It might work on your device)**
+
+# Disclaimer
+
+> [!WARNING]
+> -This EFI was made for the device mentioned above, and it might work on other Dell laptops if they are similar in speces.
+However, I do not recommend to use pre-made EFI, and it’s better to create one yourself.
+I am not responsible for any damage that may occur to your device from using it.
+I shared this EFI for those who want to test it for a specific purpose. You are not allowed to sell it or re-upload it as is.
+Re-uploading is only permitted if you make significant changes to it.
 
 # Support Me
 </div>
