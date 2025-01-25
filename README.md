@@ -37,3 +37,13 @@ This EFI is very exclusive, you might not able to find one like this, since Dort
 - [ ] iMassage **(Not working on my device. It might work on your device)**
 - [ ] Facetime **(Not working on my device. It might work on your device)**
 
+# Support Me
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('muhammadbahaa2001', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
