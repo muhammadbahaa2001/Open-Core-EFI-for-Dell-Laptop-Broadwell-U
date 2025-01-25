@@ -1,6 +1,13 @@
 # Open-Core-EFI-for-Dell-Laptop-Broadwell-U
-This EFI made and tested for Dell Inspiron 5558.
-This EFI is very exclusive, you might not able to find one like this, since Dortania Guide for building Open Core EFI includes all Intel generations whether desktop or laptop, but it doesn't include all all Intel architectures (Broadwell-U)
+This EFI was made and tested specifically for the Dell Inspiron 5558. It is highly exclusive and difficult to find elsewhere because the Dortania Guide for building OpenCore EFI covers all Intel generations for desktops and laptops but does not fully address all Intel architectures, such as Broadwell-U.
+
+If an EFI is built based on Broadwell instead of Broadwell-U, it will not boot, which proves there is a significant difference between the two architectures despite both being from the same generation (5th Gen Intel).
+
+# 🗒 
+This EFI includes specific modifications to on Dell laptops only. If you want to use it with non-Dell devices, you'll need to disable certain values in the config.plist. If you're unsure which values to disable, this website can help you: [[insert website link](https://sc.ocutils.me/)].
+
+After more than 20 attempts, I finally figured out how to create a custom EFI for it. The idea was to copy some keys and values from a pre-made Clover config and then build the rest of the config based on Broadwell, as explained in the Dortania guide.
+
 ## System Information
 
 | **Component** | **Model**                             |
