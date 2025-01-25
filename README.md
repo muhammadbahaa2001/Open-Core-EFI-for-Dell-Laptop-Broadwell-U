@@ -38,4 +38,6 @@ This EFI is very exclusive, you might not able to find one like this, since Dort
 - [ ] Facetime **(Not working on my device. It might work on your device)**
 
 # Support Me
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'H2H1Q9W7J');kofiwidget2.draw();</script> 
+</div>
+<p align="center">
+<a href='https://ko-fi.com/H2H1Q9W7J' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
