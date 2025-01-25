@@ -3,7 +3,7 @@ This EFI was made and tested specifically for the Dell Inspiron 5558. It is high
 
 If an EFI is built based on Broadwell instead of Broadwell-U, it will not boot, which proves there is a significant difference between the two architectures despite both being from the same generation (5th Gen Intel).
 
-# 🗒 
+# Note
 This EFI includes specific modifications to on Dell laptops only. If you want to use it with non-Dell devices, you'll need to disable certain values in the config.plist. If you're unsure which values to disable, this website can help you: [[insert website link](https://sc.ocutils.me/)].
 
 After more than 20 attempts, I finally figured out how to create a custom EFI for it. The idea was to copy some keys and values from a pre-made Clover config and then build the rest of the config based on Broadwell, as explained in the Dortania guide.
